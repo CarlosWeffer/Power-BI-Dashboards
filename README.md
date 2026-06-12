@@ -10,7 +10,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ![Data Jobs DB GIF](/images/dashboard_page1.png)
 
-**💡 Key Power BI Skills Utilized:**
+**💡 Key Power BI Skills Utilised:**
 * Dashboard Layout & Design
 * Power Query (ETL & Data Shaping)
 * Basic Data Modeling (Table Relationships)
@@ -23,3 +23,24 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * Drill-Through Functionality
 
 [➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+
+## Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
+
+![Data Jobs Dashboard 2.0](/images/dashboard_v2.png)
+
+**Key Power BI Skills Utilised (demonstrating progression)**
+* Advanced Dashboard Design (Singe-Page UX & Optimisation)
+* Complex Power Query Transformations
+* Star Schema Date Modeling Principles
+* Explicit DAX Measures (e.g., `CALCULATE`, context modifiers)
+* Dynamic Visualisations (driven by Parameters/Slicers)
+* Field & Numeric Parameter Implementation for "What-if" Analysis
+* Advanced Card Visualisations
+* Optimised Slicers & Advanced Cross-Filtering Techniques
+* Report Performance Considerations
+
+[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
+
+## About This Portfolio
+
+Each dasboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
